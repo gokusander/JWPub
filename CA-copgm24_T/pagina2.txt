@@ -1,0 +1,268 @@
+<header>
+<h1 id="p1" data-pid="1"><span id="page1" class="pageNum" aria-hidden="true" data-no="1" data-before-text="1"></span><strong>Espere Ansiosamente por Jeová!</strong></h1>
+</header>
+<p id="p2" data-pid="2" class="themeScrp"><a href="jwpub://b/NWTR/19:130:6-19:130:6" data-bid="1-1" class="b"><strong>SALMO 130:6</strong></a></p>
+<div class="bodyTxt">
+<div id="section1" class="section">
+<h2 id="p3" data-pid="3"><span id="page2" class="pageNum" aria-hidden="true" data-no="2" data-before-text="2">
+</span><strong>Manhã</strong></h2>
+
+
+<div class="gen-field" id="p100" data-pid="100">
+<label for="tt100" id="tt100">Presidente </label>
+<input type="text" id="tt100" name="text-1"/>
+</div>
+
+
+
+<div class="pGroup">
+<ul class="noMarker noIndent"><li><p id="p4" data-pid="4" class="sn"> 9:30 Música</p>
+</li>
+<li><p id="p5" data-pid="5" class="sn"> 9:40 <a class="xt" data-xtid="1" href="jwpub://p/T:1102016888/">Cântico 88</a> e oração
+
+
+<div class="gen-field" id="p101" data-pid="101">
+<label for="tt101" id="tt101"> </label>
+<input type="text" id="tt101" name="text-1"/>
+</div>
+
+
+
+</p>
+</li>
+<li><p id="p6" data-pid="6" class="sn"> 9:50 'Esperar ansiosamente por Jeová’ — Como?
+
+<div class="gen-field" id="p102" data-pid="102">
+<label for="tt102" id="tt102">Orador </label>
+<input type="text" id="tt102" name="text-1"/>
+</div>
+
+<div class="gen-field" id="p200" data-pid="200">
+    <label for="tt200" id="tt200" class="dc-screenReaderText">Sua resposta</label>
+    <textarea id="tt200" class="du-color--textSubdued du-fontSize--baseMinus1" name="textarea-5"></textarea>
+    </div>
+
+</p>
+</li>
+<li><p id="p7" data-pid="7" class="sn">10:05 <strong>Série de discursos:</strong> Imite aqueles que esperaram ansiosamente
+
+
+</p>
+<ul class="source"><li><p id="p8" data-pid="8" class="s7">Habacuque
+
+<div class="gen-field" id="p104" data-pid="104">
+<label for="tt104" id="tt104">Orador </label>
+<input type="text" id="tt104" name="text-1"/>
+</div>
+
+<div class="gen-field" id="p201" data-pid="201">
+<label for="tt201" id="tt201" class="dc-screenReaderText">Sua resposta</label>
+<textarea id="tt201" class="du-color--textSubdued du-fontSize--baseMinus1" name="textarea-5"></textarea>
+</div>
+
+</p>
+</li>
+<li><p id="p9" data-pid="9" class="s7">João
+
+<div class="gen-field" id="p105" data-pid="105">
+<label for="tt105" id="tt105">Orador </label>
+<input type="text" id="tt105" name="text-1"/>
+</div>
+
+<div class="gen-field" id="p202" data-pid="202">
+    <label for="tt202" id="tt202" class="dc-screenReaderText">Sua resposta</label>
+    <textarea id="tt202" class="du-color--textSubdued du-fontSize--baseMinus1" name="textarea-5"></textarea>
+    </div>
+
+
+</p>
+</li>
+<li><p id="p10" data-pid="10" class="s7">Ana
+
+<div class="gen-field" id="p106" data-pid="106">
+<label for="tt106" id="tt106">Orador </label>
+<input type="text" id="tt106" name="text-1"/>
+</div>
+
+<div class="gen-field" id="p203" data-pid="203">
+    <label for="tt203" id="tt203" class="dc-screenReaderText">Sua resposta</label>
+    <textarea id="tt203" class="du-color--textSubdued du-fontSize--baseMinus1" name="textarea-5"></textarea>
+    </div>
+
+</p>
+</li>
+</ul>
+</li>
+<li><p id="p11" data-pid="11" class="sn">11:05 <a class="xt" data-xtid="2" href="jwpub://p/T:1102016942/">Cântico 142</a> e anúncios
+
+<div class="gen-field" id="p107" data-pid="107">
+<label for="tt107" id="tt107">Orador </label>
+<input type="text" id="tt107" name="text-1"/>
+</div>
+
+<div class="gen-field" id="p204" data-pid="204">
+    <label for="tt204" id="tt204" class="dc-screenReaderText">Sua resposta</label>
+    <textarea id="tt204" class="du-color--textSubdued du-fontSize--baseMinus1" name="textarea-5"></textarea>
+    </div>
+
+
+</p>
+</li>
+<li><p id="p12" data-pid="12" class="sn">11:15 O que você está esperando?
+
+<div class="gen-field" id="p108" data-pid="108">
+<label for="tt108" id="tt108">Orador </label>
+<input type="text" id="tt108" name="text-1"/>
+</div>
+
+<div class="gen-field" id="p205" data-pid="205">
+    <label for="tt205" id="tt205" class="dc-screenReaderText">Sua resposta</label>
+    <textarea id="tt205" class="du-color--textSubdued du-fontSize--baseMinus1" name="textarea-5"></textarea>
+    </div>
+
+</p>
+</li>
+<li><p id="p13" data-pid="13" class="sn">11:30 Dedicação e batismo
+
+<div class="gen-field" id="p109" data-pid="109">
+<label for="tt109" id="tt109">Orador </label>
+<input type="text" id="tt109" name="text-1"/>
+</div>
+
+<div class="gen-field" id="p206" data-pid="206">
+    <label for="tt206" id="tt206" class="dc-screenReaderText">Sua resposta</label>
+    <textarea id="tt206" class="du-color--textSubdued du-fontSize--baseMinus1" name="textarea-5"></textarea>
+    </div>
+
+</p>
+</li>
+<li><p id="p14" data-pid="14" class="sn">12:00 <a class="xt" data-xtid="3" href="jwpub://p/T:1102016828/">Cântico 28</a></p>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="section2" class="section">
+<h2 id="p15" data-pid="15"><span id="page3" class="pageNum" aria-hidden="true" data-no="3" data-before-text="3"></span><strong>Tarde</strong></h2>
+
+<div class="gen-field" id="p110" data-pid="110">
+<label for="tt110" id="tt110">Presidente </label>
+<input type="text" id="tt110" name="text-1"/>
+</div>
+
+
+<div class="pGroup">
+<ul class="noMarker noIndent"><li><p id="p16" data-pid="16" class="sn"> 1:10 Música</p>
+</li>
+<li><p id="p17" data-pid="17" class="sn"> 1:20 <a class="xt" data-xtid="4" href="jwpub://p/T:1102016854/">Cântico 54</a> e oração</p>
+</li>
+
+<div class="gen-field" id="p120" data-pid="120">
+    <label for="tt120" id="tt120"> </label>
+    <input type="text" id="tt120" name="text-1"/>
+    </div>
+
+
+<li><p id="p18" data-pid="18" class="sn"> 1:30 <strong>Discurso para o público:</strong> Será que a paciência ainda tem valor?
+
+<div class="gen-field" id="p111" data-pid="111">
+<label for="tt111" id="tt111">Orador </label>
+<input type="text" id="tt111" name="text-1"/>
+</div>
+
+<div class="gen-field" id="p207" data-pid="207">
+    <label for="tt207" id="tt207" class="dc-screenReaderText">Sua resposta</label>
+    <textarea id="tt207" class="du-color--textSubdued du-fontSize--baseMinus1" name="textarea-5"></textarea>
+    </div>
+
+</p>
+</li>
+<li><p id="p19" data-pid="19" class="sn"> 2:00 Resumo de <em>A Sentinela</em>
+
+<div class="gen-field" id="p112" data-pid="112">
+<label for="tt112" id="tt112">Orador </label>
+<input type="text" id="tt112" name="text-1"/>
+</div>
+
+</p>
+</li>
+<li><p id="p20" data-pid="20" class="sn"> 2:30 <a class="xt" data-xtid="5" href="jwpub://p/T:1102016943/">Cântico 143</a> e anúncios</p>
+</li>
+<li><p id="p21" data-pid="21" class="sn"> 2:40 <strong>Série de discursos:</strong> Espere por Jeová. . .</p>
+<ul class="source"><li><p id="p22" data-pid="22" class="s7">Quando se sentir sozinho
+
+<div class="gen-field" id="p113" data-pid="113">
+<label for="tt113" id="tt113">Orador </label>
+<input type="text" id="tt113" name="text-1"/>
+</div>
+
+<div class="gen-field" id="p208" data-pid="208">
+    <label for="tt208" id="tt208" class="dc-screenReaderText">Sua resposta</label>
+    <textarea id="tt208" class="du-color--textSubdued du-fontSize--baseMinus1" name="textarea-5"></textarea>
+    </div>
+
+</p>
+</li>
+<li><p id="p23" data-pid="23" class="s7">Quando você cometer erros
+
+<div class="gen-field" id="p114" data-pid="114">
+<label for="tt114" id="tt114">Orador </label>
+<input type="text" id="tt114" name="text-1"/>
+</div>
+
+<div class="gen-field" id="p209" data-pid="209">
+    <label for="tt209" id="tt209" class="dc-screenReaderText">Sua resposta</label>
+    <textarea id="tt209" class="du-color--textSubdued du-fontSize--baseMinus1" name="textarea-5"></textarea>
+    </div>
+
+</p>
+</li>
+<li><p id="p24" data-pid="24" class="s7">Quando os maus forem bem-sucedidos
+
+<div class="gen-field" id="p115" data-pid="115">
+<label for="tt115" id="tt115">Orador </label>
+<input type="text" id="tt115" name="text-1"/>
+</div>
+
+<div class="gen-field" id="p210" data-pid="210">
+    <label for="tt210" id="tt210" class="dc-screenReaderText">Sua resposta</label>
+    <textarea id="tt210" class="du-color--textSubdued du-fontSize--baseMinus1" name="textarea-5"></textarea>
+    </div>
+
+</p>
+</li>
+</ul>
+</li>
+<li><p id="p25" data-pid="25" class="sn"> 3:40 “Há uma recompensa para o justo”
+
+<div class="gen-field" id="p116" data-pid="116">
+<label for="tt116" id="tt116">Orador </label>
+<input type="text" id="tt116" name="text-1"/>
+</div>
+
+<div class="gen-field" id="p211" data-pid="211">
+    <label for="tt211" id="tt211" class="dc-screenReaderText">Sua resposta</label>
+    <textarea id="tt200" class="du-color--textSubdued du-fontSize--baseMinus1" name="textarea-5"></textarea>
+    </div>
+
+</p>
+</li>
+<li><p id="p26" data-pid="26" class="sn"> 4:15 <a class="xt" data-xtid="6" href="jwpub://p/T:1102016940/">Cântico 140</a> e oração</p>
+</li>
+
+<div class="gen-field" id="p121" data-pid="121">
+    <label for="tt121" id="tt121"> </label>
+    <input type="text" id="tt121" name="text-1"/>
+    </div>
+
+</ul>
+
+
+
+</div>
+</div>
+</div>
+<p id="p27" data-pid="27" class="sb"></p>
